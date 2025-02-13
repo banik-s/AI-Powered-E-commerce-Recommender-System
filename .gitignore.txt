@@ -1,26 +1,15 @@
-# Ignore environment files
+# Ignore Python virtual environments
+ecommerce_env/
+venv/
+*.pyc
+__pycache__/
+*.pkl
+.DS_Store
+
+# Ignore environment variables and credentials
 .env
 *.env
 
-# Ignore virtual environment (modify if using another env name)
-ecommerce_env/
-
-# Ignore system files
-__pycache__/
-.DS_Store
-
-# Ignore Jupyter Notebook checkpoints
-.ipynb_checkpoints/
-
-# Ignore generated vector store files
+# Ignore vectorstore files
 vectorstore/
-
-# Ignore dataset files (optional, if you don’t want to push CSVs)
-flipkart_com-ecommerce_sample.csv
-
-# Ignore logs and temporary files
-*.log
-*.txt
-
-# Ignore hidden files and folders
-.*  
+vectorstore/*

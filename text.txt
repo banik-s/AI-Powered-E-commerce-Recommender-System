@@ -1,0 +1,24 @@
+Alisha Solid Women's Cycling Shorts	Clothing
+FabHomeDecor Fabric Double Sofa Bed	Furniture
+AW Bellies	Footwear
+Sicons All Purpose Arnica Dog Shampoo	Pet Supplies
+
+
+Product	Product Category
+Alisha Solid Women's Cycling Shorts	Women's Clothing
+FabHomeDecor Fabric Double Sofa Bed	Living Room Furniture
+AW Bellies	Women's Footwear
+Sicons All Purpose Arnica Dog Shampoo	Grooming
+
+Product	Brand
+Alisha Solid Women's Cycling Shorts	Alisha
+FabHomeDecor Fabric Double Sofa Bed	FabHomeDecor
+AW Bellies	AW
+Sicons All Purpose Arnica Dog Shampoo	Sicons
+
+
+Product	Retail Price (₹)	Discounted Price (₹)
+Alisha Solid Women's Cycling Shorts	₹999	₹379
+FabHomeDecor Fabric Double Sofa Bed	₹32,157	₹22,646
+AW Bellies	₹999	₹499
+Sicons All Purpose Arnica Dog Shampoo	₹220	₹210

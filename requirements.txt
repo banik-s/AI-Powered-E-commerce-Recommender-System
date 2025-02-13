@@ -1,0 +1,14 @@
+streamlit
+transformers
+torch
+langchain
+chromadb
+sentence-transformers
+pandas
+numpy
+openai
+tqdm
+python-dotenv
+faiss-cpu
+llama-index
+pydantic
